@@ -7,14 +7,16 @@ const perguntas = [
                 afirmacao: [
                     'Você adora cavalos.',
                     'sim'
-                ]
+                ],
+                proxima:1,
             },
             {
                 texto: 'Não, nunca tentei.',
                 afirmacao:[
                      'Quem sabe um dia você tenta!',
                     'Quero muito'
-                ]
+                ],
+                proxima: 2,
             }
         ]
     },
@@ -26,14 +28,16 @@ const perguntas = [
                 afirmacao: [
                     'Uma raça elegante e veloz!',
                         'são lindos'
-                ]
+                ],
+                proxima: 3,
             },
             {
                 texto: 'Cavalo de Trabalho',
                 afirmacao: [
                     "Muito resistente e forte!",
                     'amores'
-                ]
+                ],
+                proxima: 4,
             }
         ]
     },
@@ -45,14 +49,16 @@ const perguntas = [
                 afirmacao: [
                     'Cavalos grandes têm uma presença impressionante.',
                     ''
-                ]
+                ],
+                proxima: 5,
             },
                 {
                 texto: 'Pequenos, ágeis!',
                 afirmacao:[
                 'Cavalos pequenos são rápidos e divertidos.',
                     ''
-                ]
+                ],
+                proxima: 6,
             }
         ]
     },
@@ -64,14 +70,16 @@ const perguntas = [
                 afirmacao:[
                     'Elegância pura!',
                     ''
-                ]
+                ],
+                proxima: 7,
             },
             {
                 texto: 'Baio (marrom)',
                 afirmacao: [
                     'Uma cor clássica e charmosa.',
                     ''
-                ]
+                ],
+                proxima: 8,
             }
         ]
     },
@@ -83,14 +91,14 @@ const perguntas = [
                 afirmacao:[
                  'Com um cavalo, você teria uma ótima companhia.',
                  ''
-                ]
+                ],
             },
             {
                 texto: 'Não, não sou muito fã.',
                 afirmacao: [
                     'Cavalos não são para todos, tudo bem!',
                     ''
-                ]
+                ],
             }
         ]
     },
