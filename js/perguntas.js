@@ -5,7 +5,7 @@ const perguntas = [
             {
                 texto: 'Sim, é incrível!',
                 afirmacao: [
-                    'Você adora cavalos.'
+                    'Você adora cavalos.',
                     'sim'
                 ]
             },
